@@ -20,19 +20,21 @@ The antenna design was implemented in ANSYS HFSS using an RT/Duroid™ substrate
 ![image alt](https://github.com/def2c0sm1c/SIW-Slot-Antenna-HFSS/blob/ae0252a75216bd65fa26cdc5794a4e94cbe698f6/Antenna_specifications.png)
 
 ## Design Parameters
+![image alt](https://github.com/def2c0sm1c/SIW-Slot-Antenna-HFSS/blob/27ac1eee1cff63bb0a61258b6bcb66c209791973/Design_parameters.png)
 
 ## Antenna Design
 ### Initial Design
 
-The initial SIW Slot Antenna configuration was simulated to evaluate its resonance characteristics. Although the antenna resonated near 7.9 GHz, the obtained return loss of approximately −2.2 dB indicated poor impedance matching, requiring further design refinement.
+The initial SIW Slot Antenna configuration was simulated to evaluate its resonance characteristics. Although the antenna resonated near 7.9 GHz, the obtained return loss of approximately −2.2 dB (Check the simulation results folder for S-parameter visualization) indicated poor impedance matching, requiring further design refinement.
 
-(Insert Initial Design Image)
+![image alt](https://github.com/def2c0sm1c/SIW-Slot-Antenna-HFSS/blob/27ac1eee1cff63bb0a61258b6bcb66c209791973/Initial%20Design.png)
 
 ### Optimized Design
 
 To improve impedance matching, two additional tuning slots were introduced adjacent to the microstrip feed line. This geometric modification improved the current distribution around the feed region and significantly enhanced the antenna's return loss without altering the intended operating frequency.
 
-(Insert Optimized Design Image)
+![image alt](https://github.com/def2c0sm1c/SIW-Slot-Antenna-HFSS/blob/27ac1eee1cff63bb0a61258b6bcb66c209791973/Final_Optimized_Design.png)
+
 
 ## Simulation Results
 
@@ -63,15 +65,15 @@ Radiation Pattern -
 
 ## Skills Demonstrated
 
-SIW Antenna Design
-ANSYS HFSS
-Electromagnetic Simulation
-Antenna Optimization
-Return Loss (S11) Analysis
-Electric and Magnetic Field Analysis
-Surface Current Analysis
-Radiation Pattern Analysis
-RF & Microwave Engineering Fundamentals
+SIW Antenna Design -
+ANSYS HFSS - 
+Electromagnetic Simulation - 
+Antenna Optimization -
+Return Loss (S11) Analysis -
+Electric and Magnetic Field Analysis -
+Surface Current Analysis -
+Radiation Pattern Analysis -
+RF & Microwave Engineering Fundamentals.
 
 ## References
 
