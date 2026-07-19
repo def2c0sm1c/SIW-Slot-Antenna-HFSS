@@ -17,6 +17,8 @@ Study the field distribution and radiation characteristics of the antenna.
 The antenna design was implemented in ANSYS HFSS using an RT/Duroid™ substrate with a relative permittivity of 2.2. The initial antenna configuration was first simulated to evaluate its resonant behavior and impedance matching characteristics. Based on the obtained results, additional tuning slots were introduced near the microstrip feed line to improve the return loss while maintaining the desired operating frequency. The optimized antenna was subsequently analyzed using full-wave electromagnetic simulation.
 
 ## Antenna Specifications
+![image alt](https://github.com/def2c0sm1c/SIW-Slot-Antenna-HFSS/blob/ae0252a75216bd65fa26cdc5794a4e94cbe698f6/Antenna_specifications.png)
+
 ## Design Parameters
 
 ## Antenna Design
