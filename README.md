@@ -27,7 +27,7 @@ The antenna design was implemented in ANSYS HFSS using an RT/Duroid™ substrate
 
 The initial SIW Slot Antenna configuration was simulated to evaluate its resonance characteristics. Although the antenna resonated near 7.9 GHz, the obtained return loss of approximately −2.2 dB (Check the simulation results folder for S-parameter visualization) indicated poor impedance matching, requiring further design refinement.
 
-![image alt](https://github.com/def2c0sm1c/SIW-Slot-Antenna-HFSS/blob/27ac1eee1cff63bb0a61258b6bcb66c209791973/Initial%20Design.png)
+![image alt](https://github.com/def2c0sm1c/SIW-Slot-Antenna-HFSS/blob/62951e693fc24983c68af940408e534a40c8c6a1/Initial%20Design.png)
 
 ### Optimized Design
 
@@ -40,15 +40,22 @@ To improve impedance matching, two additional tuning slots were introduced adjac
 
 The electromagnetic performance of the optimized SIW Slot Antenna was evaluated using ANSYS HFSS. The complete set of simulation outputs, including antenna geometry, return loss (S11), electric field, magnetic field, surface current distribution, and radiation pattern, is available in the Simulation_Results folder.
 
+![image alt](https://github.com/def2c0sm1c/SIW-Slot-Antenna-HFSS/blob/62951e693fc24983c68af940408e534a40c8c6a1/Key_Performance_Summary_Table.png)
+
 ## Performance Summary
 
 The optimized SIW Slot Antenna successfully operates near 7.9 GHz with a minimum return loss of -16.3783 dB, demonstrating a significant improvement over the initial antenna configuration. The optimization process effectively enhanced impedance matching while preserving the desired resonant frequency. The simulated electric field, magnetic field, surface current distribution, and radiation characteristics confirm the expected electromagnetic behavior of the antenna.
 
 ## Potential Applications
+
 Microwave antenna research
+
 SIW technology studies
+
 Experimental radar and sensing systems
+
 High-frequency communication research
+
 Electromagnetic simulation and optimization studies
 
 
